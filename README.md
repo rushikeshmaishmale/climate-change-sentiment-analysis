@@ -38,16 +38,6 @@ This project analyzes public sentiment on climate change using real-world social
 
 ---
 
-## 📸 Visualizations
-
-### 🔹 Sentiment Distribution
-![Sentiment](outputs/graphs/sentiment_plot.png)
-
-### 🔹 WordCloud
-![WordCloud](outputs/graphs/wordcloud.png)
-
----
-
 ## 💼 Business / Real-World Use Case
 This analysis can help:
 - Organizations understand public opinion on climate policies  
